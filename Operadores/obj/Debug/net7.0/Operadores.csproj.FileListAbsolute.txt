@@ -1,0 +1,15 @@
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\bin\Debug\net7.0\Operadores.exe
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\bin\Debug\net7.0\Operadores.deps.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\bin\Debug\net7.0\Operadores.runtimeconfig.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\bin\Debug\net7.0\Operadores.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\bin\Debug\net7.0\Operadores.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\obj\Debug\net7.0\Operadores.csproj.AssemblyReference.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\obj\Debug\net7.0\Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\obj\Debug\net7.0\Operadores.AssemblyInfoInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\obj\Debug\net7.0\Operadores.AssemblyInfo.cs
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\obj\Debug\net7.0\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\obj\Debug\net7.0\Operadores.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\obj\Debug\net7.0\refint\Operadores.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\obj\Debug\net7.0\Operadores.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\obj\Debug\net7.0\Operadores.genruntimeconfig.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Operadores\obj\Debug\net7.0\ref\Operadores.dll

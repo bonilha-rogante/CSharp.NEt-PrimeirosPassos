@@ -1,0 +1,15 @@
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\bin\Debug\net7.0\EntradaDados.exe
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\bin\Debug\net7.0\EntradaDados.deps.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\bin\Debug\net7.0\EntradaDados.runtimeconfig.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\bin\Debug\net7.0\EntradaDados.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\bin\Debug\net7.0\EntradaDados.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\obj\Debug\net7.0\EntradaDados.csproj.AssemblyReference.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\obj\Debug\net7.0\EntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\obj\Debug\net7.0\EntradaDados.AssemblyInfoInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\obj\Debug\net7.0\EntradaDados.AssemblyInfo.cs
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\obj\Debug\net7.0\EntradaDados.csproj.CoreCompileInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\obj\Debug\net7.0\EntradaDados.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\obj\Debug\net7.0\refint\EntradaDados.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\obj\Debug\net7.0\EntradaDados.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\obj\Debug\net7.0\EntradaDados.genruntimeconfig.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\EntradaDados\obj\Debug\net7.0\ref\EntradaDados.dll
