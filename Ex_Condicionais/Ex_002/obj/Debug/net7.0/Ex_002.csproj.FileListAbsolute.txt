@@ -1,0 +1,15 @@
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\bin\Debug\net7.0\Ex_002.exe
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\bin\Debug\net7.0\Ex_002.deps.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\bin\Debug\net7.0\Ex_002.runtimeconfig.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\bin\Debug\net7.0\Ex_002.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\bin\Debug\net7.0\Ex_002.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\obj\Debug\net7.0\Ex_002.csproj.AssemblyReference.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\obj\Debug\net7.0\Ex_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\obj\Debug\net7.0\Ex_002.AssemblyInfoInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\obj\Debug\net7.0\Ex_002.AssemblyInfo.cs
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\obj\Debug\net7.0\Ex_002.csproj.CoreCompileInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\obj\Debug\net7.0\Ex_002.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\obj\Debug\net7.0\refint\Ex_002.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\obj\Debug\net7.0\Ex_002.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\obj\Debug\net7.0\Ex_002.genruntimeconfig.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Ex_Condicionais\Ex_002\obj\Debug\net7.0\ref\Ex_002.dll
