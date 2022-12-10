@@ -15,7 +15,8 @@ namespace Ex_004
 
             if (horaInicial < horaFinal)
             {
-                horario = horaFinal - horaInicial;
+                horario = horaFinal - horaInicial
+                ;
             }
             else
             {
