@@ -1,0 +1,15 @@
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\bin\Debug\net7.0\Funcoes.exe
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\bin\Debug\net7.0\Funcoes.deps.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\bin\Debug\net7.0\Funcoes.runtimeconfig.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\bin\Debug\net7.0\Funcoes.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\bin\Debug\net7.0\Funcoes.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\obj\Debug\net7.0\Funcoes.csproj.AssemblyReference.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\obj\Debug\net7.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\obj\Debug\net7.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\obj\Debug\net7.0\Funcoes.AssemblyInfo.cs
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\obj\Debug\net7.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\obj\Debug\net7.0\Funcoes.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\obj\Debug\net7.0\refint\Funcoes.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\obj\Debug\net7.0\Funcoes.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\obj\Debug\net7.0\Funcoes.genruntimeconfig.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Funcoes\obj\Debug\net7.0\ref\Funcoes.dll
