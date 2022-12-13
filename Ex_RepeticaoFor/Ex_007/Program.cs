@@ -8,7 +8,7 @@ namespace Ex_007
         {
             int N = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i <= N; i++) c
+            for (int i = 1; i <= N; i++)
             {
                 int primeiro = i;
                 int segundo = i * i;
