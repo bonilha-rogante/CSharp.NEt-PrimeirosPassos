@@ -31,10 +31,10 @@ namespace Ex_003
                 {
                     d += 1;
                 }
-                else
-                {
-                    Console.WriteLine("Digite um número válido:");
-                }
+                // else
+                // {
+                //     Console.WriteLine("Digite um número válido:");
+                // }
                 Console.WriteLine("1-Álcool\n2-Gasolina\n3-Diesel\n4-Sair");
                 m = int.Parse(Console.ReadLine());
 

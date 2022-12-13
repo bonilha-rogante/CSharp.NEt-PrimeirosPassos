@@ -1,0 +1,15 @@
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\bin\Debug\net7.0\RepeticaoFor.exe
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\bin\Debug\net7.0\RepeticaoFor.deps.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\bin\Debug\net7.0\RepeticaoFor.runtimeconfig.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\bin\Debug\net7.0\RepeticaoFor.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\bin\Debug\net7.0\RepeticaoFor.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\obj\Debug\net7.0\RepeticaoFor.csproj.AssemblyReference.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\obj\Debug\net7.0\RepeticaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\obj\Debug\net7.0\RepeticaoFor.AssemblyInfoInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\obj\Debug\net7.0\RepeticaoFor.AssemblyInfo.cs
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\obj\Debug\net7.0\RepeticaoFor.csproj.CoreCompileInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\obj\Debug\net7.0\RepeticaoFor.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\obj\Debug\net7.0\refint\RepeticaoFor.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\obj\Debug\net7.0\RepeticaoFor.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\obj\Debug\net7.0\RepeticaoFor.genruntimeconfig.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\RepeticaoFor\obj\Debug\net7.0\ref\RepeticaoFor.dll
