@@ -1,33 +1,21 @@
 using System;
 using System.Globalization;
-
-namespace Palavra_This
+namespace Ex_002
 {
-
     public class Produto
     {
         public string Nome;
         public double Preco;
         public int Quantidade;
 
-        public Produto()
-        {
-            Quantidade = 10;
-        }
-
-        public Produto(string nome, double preco) : this()
+        public Produto(string nome, double preco, int quantidade)
         {
             Nome = nome;
             Preco = preco;
-
-        }
-
-        public Produto(string nome, double preco, int quantidade) : this(nome, preco)
-        {
             Quantidade = quantidade;
         }
 
-        public double ValorTotalEmEstoque()
+        public double ValorTotalEstoque()
         {
             return Preco * Quantidade;
         }
@@ -35,11 +23,6 @@ namespace Palavra_This
         public void AdicionarProdutos(int quantidade)
         {
             Quantidade += quantidade;
-        }
-
-        public void RemoverProdutos(int quantidade)
-        {
-            Quantidade -= quantidade;
         }
 
         public override string ToString()
@@ -53,6 +36,4 @@ namespace Palavra_This
             + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
     }
-}
-}
 }

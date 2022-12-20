@@ -1,30 +1,33 @@
 using System;
 using System.Globalization;
 
-namespace Palavra_This
+namespace AutoPropriedades
 {
-
     public class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
 
-        public Produto()
-        {
-            Quantidade = 10;
-        }
+        public Produto() { }
 
-        public Produto(string nome, double preco) : this()
+        public Produto(string nome, double preco, int quantidade)
         {
-            Nome = nome;
+            _nome = nome;
             Preco = preco;
-
+            Quantidade = quantidade;
         }
 
-        public Produto(string nome, double preco, int quantidade) : this(nome, preco)
+        public string Nome
         {
-            Quantidade = quantidade;
+            get { return _nome; }
+            set
+            {
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
+            }
         }
 
         public double ValorTotalEmEstoque()
@@ -44,7 +47,7 @@ namespace Palavra_This
 
         public override string ToString()
         {
-            return Nome
+            return _nome
             + ", $ "
             + Preco.ToString("F2", CultureInfo.InvariantCulture)
             + ", "
@@ -53,6 +56,4 @@ namespace Palavra_This
             + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
     }
-}
-}
 }

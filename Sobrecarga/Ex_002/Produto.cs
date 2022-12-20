@@ -1,30 +1,27 @@
 using System;
 using System.Globalization;
-
-namespace Palavra_This
+namespace Ex_002
 {
-
     public class Produto
     {
         public string Nome;
         public double Preco;
         public int Quantidade;
 
-        public Produto()
+        public Produto() { }
+
+        public Produto(string nome, double preco, int quantidade)
         {
-            Quantidade = 10;
+            Nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
         }
 
-        public Produto(string nome, double preco) : this()
+        public Produto(string nome, double preco)
         {
             Nome = nome;
             Preco = preco;
 
-        }
-
-        public Produto(string nome, double preco, int quantidade) : this(nome, preco)
-        {
-            Quantidade = quantidade;
         }
 
         public double ValorTotalEmEstoque()
@@ -53,6 +50,4 @@ namespace Palavra_This
             + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
     }
-}
-}
 }

@@ -1,0 +1,15 @@
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\bin\Debug\net7.0\Propriedades.exe
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\bin\Debug\net7.0\Propriedades.deps.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\bin\Debug\net7.0\Propriedades.runtimeconfig.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\bin\Debug\net7.0\Propriedades.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\bin\Debug\net7.0\Propriedades.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\obj\Debug\net7.0\Propriedades.csproj.AssemblyReference.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\obj\Debug\net7.0\Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\obj\Debug\net7.0\Propriedades.AssemblyInfoInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\obj\Debug\net7.0\Propriedades.AssemblyInfo.cs
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\obj\Debug\net7.0\Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\obj\Debug\net7.0\Propriedades.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\obj\Debug\net7.0\refint\Propriedades.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\obj\Debug\net7.0\Propriedades.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\obj\Debug\net7.0\Propriedades.genruntimeconfig.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Encapsulamento\Propriedades\obj\Debug\net7.0\ref\Propriedades.dll
