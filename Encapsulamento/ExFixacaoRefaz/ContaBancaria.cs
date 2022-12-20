@@ -1,14 +1,13 @@
 using System;
 using System.Globalization;
 
-namespace ExFixacao
+namespace ExFixacaoRefaz
 {
     public class ContaBancaria
     {
         public int Numero { get; private set; }
         public string Titular { get; set; }
         public double Saldo { get; private set; }
-
         public ContaBancaria(int numero, string titular)
         {
             Numero = numero;
@@ -17,27 +16,29 @@ namespace ExFixacao
 
         public ContaBancaria(int numero, string titular, double depositoInicial) : this(numero, titular)
         {
-            Deposito(depositoInicial);
+            Depositar(depositoInicial);
         }
 
-        public void Deposito(double quantia)
+        public void Depositar(double valor)
         {
-            Saldo += quantia;
+            Saldo += valor;
         }
 
-        public void Saque(double quantia)
+        public void Sacar(double valor)
         {
-            Saldo -= quantia + 5.0;
+            Saldo -= valor + 5.0;
         }
 
         public override string ToString()
         {
-            return "Conta "
+            return "Conta: "
             + Numero
             + ", Titular: "
             + Titular
             + ", Saldo: $ "
             + Saldo.ToString("F2", CultureInfo.InvariantCulture);
+
         }
     }
+
 }
