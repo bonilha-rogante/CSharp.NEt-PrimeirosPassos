@@ -1,0 +1,15 @@
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\obj\Debug\net7.0\ModificadorParams.csproj.AssemblyReference.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\obj\Debug\net7.0\ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\obj\Debug\net7.0\ModificadorParams.AssemblyInfoInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\obj\Debug\net7.0\ModificadorParams.AssemblyInfo.cs
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\obj\Debug\net7.0\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\bin\Debug\net7.0\ModificadorParams.exe
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\bin\Debug\net7.0\ModificadorParams.deps.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\bin\Debug\net7.0\ModificadorParams.runtimeconfig.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\bin\Debug\net7.0\ModificadorParams.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\bin\Debug\net7.0\ModificadorParams.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\obj\Debug\net7.0\ModificadorParams.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\obj\Debug\net7.0\refint\ModificadorParams.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\obj\Debug\net7.0\ModificadorParams.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\obj\Debug\net7.0\ModificadorParams.genruntimeconfig.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ModificadorParams\obj\Debug\net7.0\ref\ModificadorParams.dll
