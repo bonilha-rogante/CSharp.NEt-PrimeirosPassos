@@ -1,0 +1,15 @@
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\bin\Debug\net7.0\ExAluguel2.exe
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\bin\Debug\net7.0\ExAluguel2.deps.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\bin\Debug\net7.0\ExAluguel2.runtimeconfig.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\bin\Debug\net7.0\ExAluguel2.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\bin\Debug\net7.0\ExAluguel2.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\obj\Debug\net7.0\ExAluguel2.csproj.AssemblyReference.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\obj\Debug\net7.0\ExAluguel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\obj\Debug\net7.0\ExAluguel2.AssemblyInfoInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\obj\Debug\net7.0\ExAluguel2.AssemblyInfo.cs
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\obj\Debug\net7.0\ExAluguel2.csproj.CoreCompileInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\obj\Debug\net7.0\ExAluguel2.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\obj\Debug\net7.0\refint\ExAluguel2.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\obj\Debug\net7.0\ExAluguel2.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\obj\Debug\net7.0\ExAluguel2.genruntimeconfig.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\Memórias, Arrays, Listas\ExAluguel2\obj\Debug\net7.0\ref\ExAluguel2.dll

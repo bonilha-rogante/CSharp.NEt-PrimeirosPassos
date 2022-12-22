@@ -7,10 +7,10 @@ namespace ExAluguel2
     {
         static void Main(string[] args)
         {
-            Aluguel rent = new Aluguel[10];
-            Console.Write("Quantos Quartos serão alugados? ");
-            int n = int.Parse(Console.ReadLine());
+            Aluguel[] rent = new Aluguel[10];
 
+            Console.WriteLine("Quantos quartos serão alugados? ");
+            int n = int.Parse(Console.ReadLine());
 
             for (int i = 1; i <= n; i++)
             {
@@ -25,9 +25,10 @@ namespace ExAluguel2
                 rent[quarto] = new Aluguel(name, email);
                 Console.WriteLine();
             }
+
             Console.WriteLine();
-            Console.WriteLine("Quartos Ocupados: ");
-            for (int i = 0; i < 10; i++)
+            Console.WriteLine("Quartos Ocupados");
+            for (int i = 1; i <= 10; i++)
             {
                 if (rent[i] != null)
                 {
