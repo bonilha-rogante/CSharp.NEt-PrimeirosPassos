@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Vetores3
+namespace VetoreEx02Refaz
 {
     public class Product
     {
-        public string Nome { get; set; }
+        public string Name { get; set; }
         public double Price { get; set; }
     }
 }
