@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ex001
-build_property.ProjectDir = c:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\ex001\
+build_property.RootNamespace = VetorEx02
+build_property.ProjectDir = C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\VetorEx02\
