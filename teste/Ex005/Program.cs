@@ -12,24 +12,24 @@ namespace Ex005
 
             Console.Write("Quantos quartos serão alugados? ");
             int n = int.Parse(Console.ReadLine());
-            Console.WriteLine();
 
-            for (int i = 1; i <= n; i++)
+            for (int i = 0; i < n; i++)
             {
-                Console.WriteLine($"Quarto #{i}: ");
+                Console.WriteLine();
+                Console.WriteLine($"Quarto #{i + 1}: ");
                 Console.Write("Nome: ");
                 string nome = Console.ReadLine();
                 Console.Write("E-mail: ");
                 string email = Console.ReadLine();
                 Console.Write("Quarto: ");
                 int quarto = int.Parse(Console.ReadLine());
-                Console.WriteLine();
 
                 rent[quarto] = new Aluguel(nome, email);
             }
 
             Console.WriteLine();
-            Console.WriteLine("Quartos Ocupados: ");
+            Console.WriteLine("Quartos ocupados: ");
+            Console.WriteLine();
             for (int i = 1; i <= 10; i++)
             {
                 if (rent[i] != null)
@@ -37,6 +37,7 @@ namespace Ex005
                     Console.WriteLine(i + ": " + rent[i]);
                 }
             }
+
         }
     }
 }

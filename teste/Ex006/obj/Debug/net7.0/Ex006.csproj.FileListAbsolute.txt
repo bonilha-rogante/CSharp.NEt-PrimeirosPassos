@@ -1,0 +1,15 @@
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\bin\Debug\net7.0\Ex006.exe
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\bin\Debug\net7.0\Ex006.deps.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\bin\Debug\net7.0\Ex006.runtimeconfig.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\bin\Debug\net7.0\Ex006.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\bin\Debug\net7.0\Ex006.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\obj\Debug\net7.0\Ex006.csproj.AssemblyReference.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\obj\Debug\net7.0\Ex006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\obj\Debug\net7.0\Ex006.AssemblyInfoInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\obj\Debug\net7.0\Ex006.AssemblyInfo.cs
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\obj\Debug\net7.0\Ex006.csproj.CoreCompileInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\obj\Debug\net7.0\Ex006.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\obj\Debug\net7.0\refint\Ex006.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\obj\Debug\net7.0\Ex006.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\obj\Debug\net7.0\Ex006.genruntimeconfig.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\teste\Ex006\obj\Debug\net7.0\ref\Ex006.dll
