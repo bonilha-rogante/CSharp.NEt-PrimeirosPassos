@@ -34,6 +34,7 @@ namespace ExFix02
                     {
                         Console.WriteLine("Posição: " + i + ", " + j);
                     }
+
                 }
             }
         }
