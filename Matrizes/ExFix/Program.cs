@@ -24,8 +24,34 @@ namespace ExFix
 
             Console.Write("Digite o número que deseja analisar: ");
             int numero = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < l; i++)
+            {
+                for (int j = 0; j < c; j++)
+                {
+                    if (mat[i, j] == numero)
+                    {
+                        Console.WriteLine("Posição: " + i + ", " + j + ": ");
+                    }
+                    if (j > 0)
+                    {
+                        Console.WriteLine("Esquerda: " + mat[i, j - 1]);
+                    }
+                    if (i > 0)
+                    {
+                        Console.WriteLine("Cima: " + mat[i - 1, j]);
+                    }
+                    if (j < c - 1)
+                    {
+                        Console.WriteLine("Direita: " + mat[i, j + 1]);
+                    }
+                    if (i < l - 1)
+                    {
+                        Console.WriteLine("Embaixo: " + mat[i + 1, j]);
+                    }
+                }
+            }
+
         }
-
-
     }
 }
