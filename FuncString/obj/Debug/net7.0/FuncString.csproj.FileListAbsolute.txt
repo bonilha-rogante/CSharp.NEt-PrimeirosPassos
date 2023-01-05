@@ -1,0 +1,15 @@
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\bin\Debug\net7.0\FuncString.exe
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\bin\Debug\net7.0\FuncString.deps.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\bin\Debug\net7.0\FuncString.runtimeconfig.json
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\bin\Debug\net7.0\FuncString.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\bin\Debug\net7.0\FuncString.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\obj\Debug\net7.0\FuncString.csproj.AssemblyReference.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\obj\Debug\net7.0\FuncString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\obj\Debug\net7.0\FuncString.AssemblyInfoInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\obj\Debug\net7.0\FuncString.AssemblyInfo.cs
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\obj\Debug\net7.0\FuncString.csproj.CoreCompileInputs.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\obj\Debug\net7.0\FuncString.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\obj\Debug\net7.0\refint\FuncString.dll
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\obj\Debug\net7.0\FuncString.pdb
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\obj\Debug\net7.0\FuncString.genruntimeconfig.cache
+C:\Users\bonil\OneDrive\Área de Trabalho\C#\FuncString\obj\Debug\net7.0\ref\FuncString.dll
