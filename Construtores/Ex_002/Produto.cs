@@ -25,6 +25,11 @@ namespace Ex_002
             Quantidade += quantidade;
         }
 
+        public void RemoverProdutos(int quantidade)
+        {
+            Quantidade -= quantidade;
+        }
+
         public override string ToString()
         {
             return Nome
@@ -33,7 +38,7 @@ namespace Ex_002
             + ", "
             + Quantidade
             + " unidades, Total: $ "
-            + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
+            + ValorTotalEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
